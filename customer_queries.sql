@@ -21,10 +21,3 @@ from costumer
 group by item_purchased
 order by avg(review_rating) desc
 limit 5;
-
-
-
-
-
-
-
